@@ -7,7 +7,7 @@ export default function App() {
   const [response, setResponse] = useState("");
 
   async function sayHello() {
-    setResponse(`Helloooo, dev, ${name}!`);
+    setResponse(`Hellooooo, dev, ${name}!`);
   }
 
   return (
