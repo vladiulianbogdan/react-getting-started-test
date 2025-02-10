@@ -1,0 +1,12 @@
+frontend:
+    path: .
+    publish: dist
+    scripts:
+        build:
+            - npm run build
+        deploy:
+            - npm install
+    subdomain: react-getting-started-test
+name: react-getting-started-test
+region: us-east-1
+yamlVersion: 2
