@@ -35,7 +35,7 @@ export default function App() {
           type="text"
           className="input-box"
           onChange={(e) => setName(e.target.value)}
-          placeholder="Enter your name"
+          placeholder="Enter your nameeeee"
         />
         <br />
         <br />
